@@ -1,0 +1,18 @@
+Resolución entregable 4
+-Juan Linares
+-Ricardo Rosero
+-Kimberley Zacarias
+-Rafael Porras
+
+PREGUNTA 1: Cada lenguaje de programación puede estar diseñado específicamente
+	    para un sistema operativo debido a factores de arquitectura, 
+	    frameworks y APIS. 
+
+Pregunta 2: En términos técnicos, Virtualbox es una solución de virtualización
+	    de nivel de hipervisor de tipo 2. Esto significa que se instala y 
+	    se ejecuta como una aplicación en tu sistema operativo host existente,
+	    ya sea Windowa, MacOS, Linux, entre otros. 
+
+Pregunta 3: Cada máquina virtual es independiente y se ejecuta de forma aislada,
+	    esto de logra a travéz de la separación de memoria, planificación de
+	    CPU y asignación de dispositivos virtuales.
