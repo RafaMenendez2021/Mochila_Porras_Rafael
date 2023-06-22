@@ -1,0 +1,5 @@
+La ip pública de la VM es: 187.190.157.137
+
+La ip privada de la VM es: 192.168.122.6
+
+La dirección mac de la VM es: 52:54:00:e2:4c:df
